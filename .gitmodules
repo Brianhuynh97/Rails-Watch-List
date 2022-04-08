@@ -1,3 +1,6 @@
 [submodule "spec"]
 	path = spec
 	url = https://github.com/lewagon/fullstack-challenges-04-Rails-mister-cocktail-specs.git
+[submodule "Rails-Watch-List"]
+	path = Rails-Watch-List
+	url = https://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@github.com/Brianhuynh97/Rails-Watch-List
